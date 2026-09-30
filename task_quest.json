@@ -1,5 +1,6 @@
 {
   "version": "1.12.0",
   "buildNumber": 16,
+  "minimumBuildNumber": 1,
   "releaseUrl": "https://github.com/bayashiP/TaskQuest/releases"
 }
